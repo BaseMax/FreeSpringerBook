@@ -280,7 +280,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-23042-9.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
 
-## Introduction to Logic Circuits &amp; Logic Design with Verilog 
+## Introduction to Logic Circuits & Logic Design with Verilog 
 https://link.springer.com/content/pdf/10.1007%2F978-3-319-53883-9.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-53883-9
@@ -765,7 +765,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-24551-5.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-24551-5
 
-## Language Across the Curriculum &amp; CLIL in English as an Additional Language (EAL) Contexts 
+## Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts 
 https://link.springer.com/content/pdf/10.1007%2F978-981-10-1802-2.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-981-10-1802-2
@@ -1225,7 +1225,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-16874-6.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-16874-6
 
-## Introduction to Logic Circuits &amp; Logic Design with VHDL  
+## Introduction to Logic Circuits & Logic Design with VHDL  
 https://link.springer.com/content/pdf/10.1007%2F978-3-319-34195-8.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-34195-8
@@ -1848,7 +1848,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-98875-7.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-319-98875-7
 
-## Introduction to Logic Circuits &amp; Logic Design with VHDL  
+## Introduction to Logic Circuits & Logic Design with VHDL  
 https://link.springer.com/content/pdf/10.1007%2F978-3-030-12489-2.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-030-12489-2
@@ -1868,7 +1868,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-030-13005-3.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-030-13005-3
 
-## Introduction to Logic Circuits &amp; Logic Design with Verilog 
+## Introduction to Logic Circuits & Logic Design with Verilog 
 https://link.springer.com/content/pdf/10.1007%2F978-3-030-13605-5.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-030-13605-5
