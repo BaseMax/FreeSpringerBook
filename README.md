@@ -1415,8 +1415,6 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-662-49279-6.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-662-49279-6
 
-PHP Warning:  file_get_contents(http://link.springer.com/openurl?genre=book&isbn=978-3-319-64410-3299): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
- in /home/max/springer-dl/links-parsers.php on line 11
 ## Empathetic Space on Screen 
 https://link.springer.com/content/pdf/10.1007%2F978-3-319-66772-0.pdf
 
@@ -1900,8 +1898,6 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-030-11117-5.pdf
 
 Read more: http://link.springer.com/openurl?genre=book&isbn=978-3-030-11117-5
 
-PHP Warning:  file_get_contents(http://link.springer.com/openurl?genre=book&isbn=978-3-030-15224-6399): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
- in /home/max/springer-dl/links-parsers.php on line 11
 ## Foundations of Behavioral Health 
 https://link.springer.com/content/pdf/10.1007%2F978-3-030-18435-3.pdf
 
